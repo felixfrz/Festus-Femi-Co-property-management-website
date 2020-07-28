@@ -1462,4 +1462,11 @@ display: none;
  right:10px;
  cursor: pointer;
 }
-
+i{
+  color: crimson;
+}
+#main > div > div > div.popup-close{
+  background-color:crimson;
+  padding: 4px;
+  border-radius: 3px;
+}
